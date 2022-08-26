@@ -1,4 +1,4 @@
-FROM tarunprivate.azurecr.io/privateimage
+FROM tarunprivate.azurecr.io/reg-image
 
 ENV WASP_TELEMETRY_CONTEXT=gitpod
 
