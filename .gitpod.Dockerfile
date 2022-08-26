@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:latest
+FROM tarunpothulapati/private-test
 
 ENV WASP_TELEMETRY_CONTEXT=gitpod
 
