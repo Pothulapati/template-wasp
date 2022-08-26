@@ -1,4 +1,4 @@
-FROM tarunpothulapati/private-test
+FROM index.docker.io/v1/tarunpothulapati/private-test
 
 ENV WASP_TELEMETRY_CONTEXT=gitpod
 
